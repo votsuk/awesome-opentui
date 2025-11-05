@@ -2,8 +2,6 @@
 
 <img alt="banner" src="https://github.com/msmps/awesome-opentui/raw/main/.github/banner.png"/>
 
-<br />
-
 <div align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
 </div>
