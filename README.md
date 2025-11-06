@@ -25,7 +25,7 @@
 
 ## Developer Tools
 
-- [critique](https://github.com/remorses/critique) - A terminal interface for reviewing git changes.
+- [critique](https://github.com/remorses/critique) - A terminal interface for reviewing Git changes.
 
 ## Contributing
 
