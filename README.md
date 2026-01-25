@@ -15,7 +15,7 @@
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Starters & Examples](#starters--examples)
+- [Starters \& Examples](#starters--examples)
 - [Developer Tools](#developer-tools)
 - [Libraries](#libraries)
 - [Miscellaneous](#miscellaneous)
@@ -38,6 +38,7 @@
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage across OpenCode/Claude Code/Codex/Gemini CLI/Cursor IDE.
 - [waha-tui](https://github.com/muhammedaksam/waha-tui) - A terminal user interface for WAHA (WhatsApp HTTP API).
+- [restman](https://github.com/cadamsdev/restman) - A terminal interface for testing REST APIs.
 
 ## Libraries
 
