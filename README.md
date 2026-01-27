@@ -35,11 +35,11 @@
 - [cftop](https://github.com/NWBY/cftop) - A terminal interface for Cloudflare Workers.
 - [critique](https://github.com/remorses/critique) - A terminal interface for reviewing Git changes.
 - [easiarr](https://github.com/muhammedaksam/easiarr) - A terminal interface for managing Arr applications.
+- [opendocker](https://github.com/votsuk/opendocker) - A terminal interface for managing Docker containers.
 - [red](https://github.com/evertdespiegeleer/red-cli) - A terminal interface for Redis.
 - [tokscale](https://github.com/junhoyeo/tokscale) - A terminal interface for tracking token usage.
 - [waha-tui](https://github.com/muhammedaksam/waha-tui) - A terminal user interface for WAHA (WhatsApp HTTP API).
 - [restman](https://github.com/cadamsdev/restman) - A terminal interface for testing REST APIs.
-- [opendocker](https://github.com/votsuk/opendocker) - A terminal interface for managing Docker containers.
 
 ## Libraries
 
